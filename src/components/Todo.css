@@ -1,0 +1,19 @@
+.todo {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+button {
+  width: 2rem;
+}
+
+.todo__item {
+  list-style: none;
+}
+
+.grey {
+  color: grey;
+  text-decoration: line-through;
+}

@@ -1,0 +1,19 @@
+.input__form {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-top: 3rem;
+}
+
+.input__todo {
+  padding: 0.5rem;
+  width: 17rem;
+  text-align: center;
+  outline: none;
+}
+
+.add_btn {
+  padding: 0.5rem;
+  width: 3rem;
+}
